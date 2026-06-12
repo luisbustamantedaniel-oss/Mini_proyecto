@@ -27,8 +27,8 @@ Proyecto_S_Operativos/
 └── modules/                # Paquete contenedor de la lógica del negocio.
     ├── __init__.py         # Archivo de inicialización de paquete (vacío).
     ├── info_sistema.py     # Módulo 1: Captura de datos del SO y Hardware.
-    ├── monitor_procesos.py # Módulo 2: Monitoreo, búsqueda y cierre de procesos.
+    ├── procesos.py         # Módulo 2: Monitoreo, búsqueda y cierre de procesos.
     ├── organizador.py      # Módulo 3: Clasificación automática de directorios.
     ├── backup.py           # Módulo 4: Sistema de respaldos con logs.
-    ├── reportes.py         # Módulo 5: Generación de registros analíticos en .txt.
+    ├── reporte.py         # Módulo 5: Generación de registros analíticos en .txt.
     └── automatizacion.py   # Módulo 6: Planificador de hilos en segundo plano.
